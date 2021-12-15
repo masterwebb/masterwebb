@@ -8,4 +8,4 @@ I create Skripts that are mainly open sourse packages, I have a passion for lear
 ![](https://img.shields.io/badge/Laguages-Script,JavaScript,HTML,CSS,C++.-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterwebb&show_icons=true&theme=radical)
