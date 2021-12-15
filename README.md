@@ -6,5 +6,6 @@ I create Skripts that are mainly open sourse packages, I have a passion for lear
 
 
 ![](https://img.shields.io/badge/Laguage-Script-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![h](https://img.shields.io/badge/Job-Qurp, Weaken-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Job-Qurp, Weaken-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
