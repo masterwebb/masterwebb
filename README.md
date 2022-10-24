@@ -2,7 +2,8 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 
 
-I create skripts that are mainly open source packages. I have a passion for learning and sharing my knowlege with others in a way that's as public as possable. I am currently making my website so i will update when its up! For now you can look at https://dev.to/masterwebb .
+Heyo, I am masterwebb, I create plugins and skript, I like to keep them private due to priavte clients. If you have any questions dont be afaid to message me on discord.
+
 
 
 ![](https://img.shields.io/badge/Laguages-Script,JavaScript,HTML,CSS,C++.-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
